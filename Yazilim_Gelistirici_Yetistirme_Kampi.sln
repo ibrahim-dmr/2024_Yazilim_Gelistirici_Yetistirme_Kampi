@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro", "Intro\Intro.csproj", "{C76795BD-353A-4065-A769-BE0C3A422C16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intro", "Intro\Intro.csproj", "{C76795BD-353A-4065-A769-BE0C3A422C16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOPExcercices", "OOPExcercices", "{216033C5-E325-40D1-B891-193C85FA47A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferanceTypes", "ReferanceTypes\ReferanceTypes.csproj", "{33A5796E-250A-4083-A5F8-687DDB488CED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,16 @@ Global
 		{C76795BD-353A-4065-A769-BE0C3A422C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C76795BD-353A-4065-A769-BE0C3A422C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C76795BD-353A-4065-A769-BE0C3A422C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33A5796E-250A-4083-A5F8-687DDB488CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A5796E-250A-4083-A5F8-687DDB488CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A5796E-250A-4083-A5F8-687DDB488CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A5796E-250A-4083-A5F8-687DDB488CED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{33A5796E-250A-4083-A5F8-687DDB488CED} = {216033C5-E325-40D1-B891-193C85FA47A7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6CC6211F-253A-4585-8836-3614CF8F0C9F}
