@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intro", "Intro\Intro.csproj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOPExcercices", "OOPExcercices", "{216033C5-E325-40D1-B891-193C85FA47A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferanceTypes", "ReferanceTypes\ReferanceTypes.csproj", "{33A5796E-250A-4083-A5F8-687DDB488CED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferanceTypes", "ReferanceTypes\ReferanceTypes.csproj", "{33A5796E-250A-4083-A5F8-687DDB488CED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{F9CF5F75-2213-434E-9C82-CFF0E3F1AC32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{F9CF5F75-2213-434E-9C82-CFF0E3F1AC32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{CEB1CB7F-41F1-475B-91F6-7A494A144ADA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{CEB1CB7F-41F1-475B-91F6-7A494A144ADA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{3CAFCDBC-29B6-49D4-8C8A-E4CAB0C61C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{BBF33A6E-9F59-4310-A9EC-D820D92A66FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{3CAFCDBC-29B6-49D4-8C8A-E4CAB0C61C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CAFCDBC-29B6-49D4-8C8A-E4CAB0C61C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CAFCDBC-29B6-49D4-8C8A-E4CAB0C61C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF33A6E-9F59-4310-A9EC-D820D92A66FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF33A6E-9F59-4310-A9EC-D820D92A66FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF33A6E-9F59-4310-A9EC-D820D92A66FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF33A6E-9F59-4310-A9EC-D820D92A66FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +56,7 @@ Global
 		{F9CF5F75-2213-434E-9C82-CFF0E3F1AC32} = {216033C5-E325-40D1-B891-193C85FA47A7}
 		{CEB1CB7F-41F1-475B-91F6-7A494A144ADA} = {216033C5-E325-40D1-B891-193C85FA47A7}
 		{3CAFCDBC-29B6-49D4-8C8A-E4CAB0C61C3E} = {216033C5-E325-40D1-B891-193C85FA47A7}
+		{BBF33A6E-9F59-4310-A9EC-D820D92A66FC} = {216033C5-E325-40D1-B891-193C85FA47A7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6CC6211F-253A-4585-8836-3614CF8F0C9F}
