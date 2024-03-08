@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{BBF33A6E-9F59-4310-A9EC-D820D92A66FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodlama.io_Simulation", "Kodlama.io_Simulation\Kodlama.io_Simulation.csproj", "{0AB081D1-B61B-4635-9054-49542C54DBCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{BBF33A6E-9F59-4310-A9EC-D820D92A66FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBF33A6E-9F59-4310-A9EC-D820D92A66FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBF33A6E-9F59-4310-A9EC-D820D92A66FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB081D1-B61B-4635-9054-49542C54DBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB081D1-B61B-4635-9054-49542C54DBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB081D1-B61B-4635-9054-49542C54DBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB081D1-B61B-4635-9054-49542C54DBCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
